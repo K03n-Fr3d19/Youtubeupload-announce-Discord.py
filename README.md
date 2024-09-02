@@ -1,4 +1,3 @@
-Here’s a new `README.md` tailored for the code you provided:
 # YouTube Announcement Discord Bot
 
 A Discord bot that announces new videos from a specified YouTube channel in a designated Discord channel. The bot supports setup via commands and checks for new videos periodically.
