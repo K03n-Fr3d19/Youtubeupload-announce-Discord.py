@@ -19,7 +19,7 @@ A Discord bot that announces new videos from a specified YouTube channel in a de
 
 2. **Upload the Package to Velvox Gamehosting**
 
-    - Buy your [bot (Discord bot.py)](https://billing.velvox.net/cart.php?a=confproduct&i=0) and use "Python Generic"
+    - Buy your [bot (Discord bot.py)](https://billing.velvox.net/index.php/store/discord-bot) and use "Python Generic"
     - Then go to the [gamepanel](https://game.velvox.net) and go to "your server" > files and drop the .tar file in to the `/home/container/` directory, and extract it.
     - Create a database in the "Database" tab and write the login information down.
 
